@@ -1,2 +1,6 @@
 for test
+<<<<<<< HEAD
 for test3
+=======
+for test4
+>>>>>>> test1
